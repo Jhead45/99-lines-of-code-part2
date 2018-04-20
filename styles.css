@@ -6,9 +6,22 @@ h1 {
     color: red;
 }
 
-.friend {
-    background-color: rgb(171, 224, 238);
+
+
+#theBox {
+    height: 400px;
+    width: 500px;
+    align-self: center;
+    background-color: lightgray;
+    border: 2px solid black;
+
 }
-.friend h3{
-    text-transform: uppercase;
+
+p {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    color: red;
 }
